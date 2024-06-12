@@ -3,14 +3,14 @@
 Welcome to Robert Leal's Retrieval-Augmented Generation (RAG) project. This project utilizes Streamlit, Langchain, Chroma, and Ollama machine learning models to create an interactive query interface.
 
 ## Table of Contents
-- [Introduction]
-- [Features]
-- [Installation]
-- [Usage]
-- [Populating the Database]
-- [Unit Testing]
-- [Project Structure]
-- [Contributing]
+- Introduction
+- Features
+- Installation
+- Usage
+- Populating the Database
+- Unit Testing
+- Project Structure
+- Contributing
 
 ## Introduction
 

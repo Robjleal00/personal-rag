@@ -3,14 +3,14 @@
 Welcome to Robert Leal's Retrieval-Augmented Generation (RAG) project. This project utilizes Streamlit, Langchain, Chroma, and Ollama machine learning models to create an interactive query interface.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Populating the Database](#populating-the-database)
-- [Unit Testing](#unit-testing)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- [Introduction]
+- [Features]
+- [Installation]
+- [Usage]
+- [Populating the Database]
+- [Unit Testing]
+- [Project Structure]
+- [Contributing]
 
 ## Introduction
 
@@ -29,8 +29,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/rag-project.git
-    cd rag-project
+    git clone https://github.com/Robjleal00/personal-rag.git
     ```
 
 2. **Install dependencies**:
@@ -66,8 +65,6 @@ pytest test_rag.py
 ```
 
 ## Project Structure
-
-    ```bash 
     .
     ├── data                    # Directory containing the PDF documents
     ├── chroma                  # Directory for the Chroma vector database
@@ -77,7 +74,6 @@ pytest test_rag.py
     ├── test_rag.py             # Unit tests for the project
     ├── requirements.txt        # List of dependencies
     └── README.md               # This README file
-    ```
 
 ## Contributing 
 
@@ -107,7 +103,7 @@ pytest test_rag.py
 3. **Installation**: Step-by-step instructions on how to set up the project locally.
 4. **Usage**: How to run the application and any setup steps required before running it.
 5. **Populating the Database**": How to clear and populate the database. 
-6. **Testing**: Instructions for running the unit tests.
+6. **Unit Testing**: Instructions for running the unit tests.
 7. **Project Structure**: A tree view of the project files and directories to give an overview of the project layout.
 8. **Contributing**: Guidelines for contributing to the project.
 

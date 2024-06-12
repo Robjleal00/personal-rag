@@ -1,5 +1,7 @@
 pypdf
 langchain
-chromadb # Vector storage
+chromadb 
 pytest
 boto3
+streamlit
+ollama # ollama pull llama3
